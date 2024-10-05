@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/martin-contreras-797350210/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="martin" />
-</a><a href="https://www.facebook.com/tuperfil" target="_blank">
+</a><a href="https://www.facebook.com/martin.contreras.794/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-%23D3D3D3.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
 </a>
 
@@ -62,14 +62,7 @@
     ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
     ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-
-
-<br>
-
-- **Extras**:
-
    
-
 </p>
 
 
