@@ -1,10 +1,6 @@
-
-# Hola, soy Martín  
-### { un simple Desarrollador Web Fullstack } 👋
-#### [ Estudiante de Ingeniería Electrónica ]
-#### apasionado por la tecnología 😄
-
-<br>
+<h1 align="center"> Hola, soy Martín C </h3>
+<h2 align="center"> { un simple Desarrollador de aplicaciones Web } <br> [ Estudiante de Ingeniería Electrónica ] <br> <br> </h2>
+<h3 align="center"> Y apasionado por las nuevas tecnologías <br><br> </h3>
 
 <h3 align="center">Técnico Electromecánico | Programador Web Fullstack </h3>
 <p align="center">
@@ -13,8 +9,6 @@
 </a><a href="https://www.facebook.com/martin.contreras.794/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-%23D3D3D3.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
 </a>
-
-
 </p>
 
 <br>
@@ -38,10 +32,8 @@
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
