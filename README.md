@@ -1,6 +1,6 @@
-<h1 align="center"> Hola, soy Martín C </h3>
-<h2 align="center"> { un simple Desarrollador de aplicaciones Web } <br> [ Estudiante de Ingeniería Electrónica ] <br> <br> </h2>
-<h3 align="center"> Y apasionado por las nuevas tecnologías <br><br> </h3>
+<h1 align="center">  Hola, soy Martín C </h3>
+<h2 align="center"> ⚡ { Un simple Desarrollador de Aplicaciones Web Dinámicas } <br>⚡ [ Estudiante de Ingeniería Electrónica ] <br>⚡ Y apasionado por las nuevas tecnologías <br><br> </h2>
+
 
 <h3 align="center">Técnico Electromecánico | Programador Web Fullstack </h3>
 <p align="center">
@@ -47,7 +47,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    
 
     
     ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
